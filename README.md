@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**fnowacki/fnowacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working remotely, based in Gdynia, Poland.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Crafting the SaaS for Rental Companies at [@AutomotiveCloud](https://github.com/automotivecloud) as side project
+- 🥦 I'm growing my cooking [Instagram](https://instagram.com/_nwcki)
+
+##### BIO
+
+- 🏢 I'm currently working at [Packhelp](https://packhelp.com)
+- ⚙️ I use daily: React, Vue, Nodejs, PHP and Symfony
+- 🌍 I'm mostly active within the [@AutomotiveCloud](https://github.com/automotivecloud) startup
+- 🌱 Learning all about **frontend** and **Domain Driven Design**
+- 💬 Ping me about **react**, **php**, **node**, **typescript**, **startups**
+- 📫 Reach me: [hello@nowacki.it](mailto:hello@nowacki.it)
+- ⚡️ Fun fact: I'm a Pug dad :dog:
