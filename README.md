@@ -5,7 +5,6 @@
 ##### NOW
 
 - 🌐 Crafting the SaaS for Rental Companies at [@AutomotiveCloud](https://github.com/automotivecloud) as side project
-- 🥦 I'm growing my cooking [Instagram](https://instagram.com/_nwcki)
 
 ##### BIO
 
