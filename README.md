@@ -6,6 +6,10 @@
 
 - 🌐 Crafting the SaaS for Rental Companies at [@AutomotiveCloud](https://github.com/automotivecloud) as side project
 
+##### IN NEAR FUTURE
+
+- 👨🏻‍💻 |> I wanna to learn Elixir language
+
 ##### BIO
 
 - 🏢 I'm currently working at [Packhelp](https://packhelp.com)
