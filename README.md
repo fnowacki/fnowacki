@@ -8,7 +8,7 @@
 
 ##### IN NEAR FUTURE
 
-- 👨🏻‍💻 |> I wanna to learn Elixir language
+- 👨🏻‍💻 |> I wanna learn Elixir language
 
 ##### BIO
 
